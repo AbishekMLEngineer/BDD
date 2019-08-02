@@ -50,6 +50,9 @@ public class LinkedList_ {
         }
     }
 
+    public void noStash(){}
+
+
 
 
 
